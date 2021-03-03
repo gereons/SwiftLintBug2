@@ -1,3 +1,5 @@
 .DS_Store
 xcodebuild.log
 xcuserdata
+compile_commands.json
+XCodeCompilationDatabase
